@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Vitor%20Ferreira&fontSize=80&fontColor=3b82f6&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue.js%20%26%20Django%20Expert&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Vitor%20Ferreira&fontSize=80&fontColor=3b82f6&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue.js%20%26%20Django%20Expert&descAlignY=55&descAlign=50&v=new" width="100%" />
 </div>
 
 <br />
@@ -78,8 +78,8 @@
     <td valign="top" width="40%">
       <h3>🔥 GitHub Stats</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vencce&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=64748b&icon_color=3b82f6&hide=stars" width="100%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vencce&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=64748b" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Vencce&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=64748b&icon_color=3b82f6&hide=stars&v=new" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vencce&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=64748b&v=new" width="100%" />
       </div>
     </td>
   </tr>
@@ -90,11 +90,11 @@
 ### 🌱 Contribuições Recentes
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vencce&theme=dark&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Vencce&theme=dark&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true&v=new" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=20&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=20&section=footer&v=new" width="100%" />
 </div>
