@@ -87,10 +87,10 @@
 
 <br />
 
-### 🌱 Contribuições Recentes (Snake Game)
+### 🌱 Contribuições Recentes
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vencce&theme=dark&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Vencce&theme=dark&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true" />
 </div>
 
 <br />
