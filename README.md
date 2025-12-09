@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Vitor%20Ferreira&fontSize=80&fontColor=3b82f6&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue.js%20%26%20Django%20Expert&descAlignY=55&descAlign=50" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo!+%F0%9F%91%8B;Sou+Vitor+Ferreira;Full+Stack+Developer;Vue.js+%26+Django+Expert" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
@@ -82,17 +84,6 @@ Um sistema híbrido de **ERP Fabril** e **E-commerce**.
   <a href="https://github.com/Vencce/BluePen-Back">
     <img src="https://img.shields.io/badge/Ver%20Backend-0f172a?style=flat-square&logo=django&logoColor=white" />
   </a>
-</div>
-
-<br />
-
-### 🔥 GitHub Stats
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vencce&show_icons=true&theme=tokyonight&hide_border=true" alt="Vencce Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vencce&layout=compact&theme=tokyonight&hide_border=true" alt="Vencce Languages" />
-  </p>
 </div>
 
 <br />
