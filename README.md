@@ -85,16 +85,3 @@ Um sistema híbrido de **ERP Fabril** e **E-commerce**.
     <img src="https://img.shields.io/badge/Ver%20Backend-0f172a?style=flat-square&logo=django&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <h3>🌱 Contribuições Recentes</h3>
-  <img src="https://streak-stats.demolab.com?user=Vencce&theme=tokyonight&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=20&section=footer" width="100%" />
-</div>
